@@ -4,6 +4,17 @@
     <title>Gridkit Updates</title>
     <link>https://gridkit.co</link>
     <item>
+  <title>Version 0.1.0-beta.3</title>
+  <pubDate>Fri, 19 Dec 2025 19:30:41 +0000</pubDate>
+  <sparkle:version>0.1.0-beta.3</sparkle:version>
+    <sparkle:channel>beta</sparkle:channel>
+  <enclosure
+    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.3.dmg"
+    sparkle:edSignature="eJ78IVd2cAMXqU1eblhOA6rjdUBv4IE6JQvdoiSfAwYgXXSDVVIvvzEXvNOkDqQab90K2WPfGkh17qTm0q50Cw=="
+    length="25557812"
+    type="application/octet-stream" />
+</item>
+    <item>
   <title>Version 0.1.0-beta.2</title>
   <pubDate>Fri, 19 Dec 2025 16:36:22 +0000</pubDate>
   <sparkle:version>0.1.0-beta.2</sparkle:version>
