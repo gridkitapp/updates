@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Gridkit Updates</title>
+    <link>https://gridkit.co</link>
+    <item>
+  <title>Version 0.1.0-beta.1</title>
+  <pubDate>Fri, 19 Dec 2025 14:44:43 +0000</pubDate>
+  <sparkle:version>0.1.0-beta.1</sparkle:version>
+    <sparkle:channel>beta</sparkle:channel>
+  <enclosure
+    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.1.dmg"
+    sparkle:edSignature="5eMdC9Ll1xufTV2gfHUb0kqpyJGFHCH6Axeyu/qjrljFQOV8REWBBV6WE78yI5oFc6s6aYMxNJrcMEzEFApLAw=="
+    length="5160256"
+    type="application/octet-stream" />
+</item>
+  </channel>
+</rss>
