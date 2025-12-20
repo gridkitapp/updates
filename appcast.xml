@@ -1,73 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Gridkit Updates</title>
-    <link>https://gridkit.co</link>
-    <item>
-  <title>Version 0.1.0-beta.8</title>
-  <pubDate>Sat, 20 Dec 2025 10:08:40 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.8</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.8.dmg"
-    sparkle:edSignature="Y2WYL//RzOfl3OzW+cMfZ2wPSwKnIa/M0EZAzeJe32F5+qGcvyt3UOuFVoOi3CmSBeT1AtLUycsNfnAAgF2cAA=="
-    length="25717927"
-    type="application/octet-stream" />
-</item>
-    <item>
-  <title>Version 0.1.0-beta.7</title>
-  <pubDate>Sat, 20 Dec 2025 09:06:16 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.7</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.7.dmg"
-    sparkle:edSignature="cp+Iy+boArhsRl52ppwg2kxy+hFeS5vdYaE8sFFnPFg2oXEOssK3h4ZW4BUBcQNzAoij32l4z95EGyKoi0p+AA=="
-    length="25718768"
-    type="application/octet-stream" />
-</item>
-    <item>
-  <title>Version 0.1.0-beta.4</title>
-  <pubDate>Fri, 19 Dec 2025 20:07:12 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.4</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.4.dmg"
-    sparkle:edSignature="wG2EOXrmRTv32NZVX4RaL6Y276Kl9y4eUth2rwEA+/BCtMIlkqnUC+2TPUXfGxM9jKrVI0XfL8dKLMzOaTJBBQ=="
-    length="25557779"
-    type="application/octet-stream" />
-</item>
-    <item>
-  <title>Version 0.1.0-beta.3</title>
-  <pubDate>Fri, 19 Dec 2025 19:30:41 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.3</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.3.dmg"
-    sparkle:edSignature="eJ78IVd2cAMXqU1eblhOA6rjdUBv4IE6JQvdoiSfAwYgXXSDVVIvvzEXvNOkDqQab90K2WPfGkh17qTm0q50Cw=="
-    length="25557812"
-    type="application/octet-stream" />
-</item>
-    <item>
-  <title>Version 0.1.0-beta.2</title>
-  <pubDate>Fri, 19 Dec 2025 16:36:22 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.2</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.2.dmg"
-    sparkle:edSignature="LIrJGC3CBYzwpRGStN5rKkqsPsIPCKL21XIeIhqFA6DlOqHcF9tZgaxxxWsB3X2rRV1GcZPiPDdRb3DUYAmbDg=="
-    length="25928804"
-    type="application/octet-stream" />
-</item>
-    <item>
-  <title>Version 0.1.0-beta.1</title>
-  <pubDate>Fri, 19 Dec 2025 14:44:43 +0000</pubDate>
-  <sparkle:version>0.1.0-beta.1</sparkle:version>
-    <sparkle:channel>beta</sparkle:channel>
-  <enclosure
-    url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.1.dmg"
-    sparkle:edSignature="5eMdC9Ll1xufTV2gfHUb0kqpyJGFHCH6Axeyu/qjrljFQOV8REWBBV6WE78yI5oFc6s6aYMxNJrcMEzEFApLAw=="
-    length="5160256"
-    type="application/octet-stream" />
-</item>
-  </channel>
-</rss>
+  <?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+      <title>Gridkit Updates</title>
+      <link>https://gridkit.co</link>
+      <item>
+        <title>Version 0.1.0-beta.8</title>
+        <pubDate>Sat, 20 Dec 2025 10:08:40 +0000</pubDate>
+        <sparkle:version>16</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.8</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.8.dmg"
+          sparkle:edSignature="Y2WYL//RzOfl3OzW+cMfZ2wPSwKnIa/M0EZAzeJe32F5+qGcvyt3UOuFVoOi3CmSBeT1AtLUycsNfnAAgF2cAA=="
+          length="25717927"
+          type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 0.1.0-beta.7</title>
+        <pubDate>Sat, 20 Dec 2025 09:06:16 +0000</pubDate>
+        <sparkle:version>15</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.7.dmg"
+          sparkle:edSignature="cp+Iy+boArhsRl52ppwg2kxy+hFeS5vdYaE8sFFnPFg2oXEOssK3h4ZW4BUBcQNzAoij32l4z95EGyKoi0p+AA=="
+          length="25718768"
+          type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 0.1.0-beta.4</title>
+        <pubDate>Fri, 19 Dec 2025 20:07:12 +0000</pubDate>
+        <sparkle:version>14</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.4</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.4.dmg"
+          sparkle:edSignature="wG2EOXrmRTv32NZVX4RaL6Y276Kl9y4eUth2rwEA+/BCtMIlkqnUC+2TPUXfGxM9jKrVI0XfL8dKLMzOaTJBBQ=="
+          length="25557779"
+          type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 0.1.0-beta.3</title>
+        <pubDate>Fri, 19 Dec 2025 19:30:41 +0000</pubDate>
+        <sparkle:version>13</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.3</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.3.dmg"
+          sparkle:edSignature="eJ78IVd2cAMXqU1eblhOA6rjdUBv4IE6JQvdoiSfAwYgXXSDVVIvvzEXvNOkDqQab90K2WPfGkh17qTm0q50Cw=="
+          length="25557812"
+          type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 0.1.0-beta.2</title>
+        <pubDate>Fri, 19 Dec 2025 16:36:22 +0000</pubDate>
+        <sparkle:version>12</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.2.dmg"
+          sparkle:edSignature="LIrJGC3CBYzwpRGStN5rKkqsPsIPCKL21XIeIhqFA6DlOqHcF9tZgaxxxWsB3X2rRV1GcZPiPDdRb3DUYAmbDg=="
+          length="25928804"
+          type="application/octet-stream" />
+      </item>
+      <item>
+        <title>Version 0.1.0-beta.1</title>
+        <pubDate>Fri, 19 Dec 2025 14:44:43 +0000</pubDate>
+        <sparkle:version>11</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-beta.1</sparkle:shortVersionString>
+        <sparkle:channel>beta</sparkle:channel>
+        <enclosure
+          url="https://updates.gridkit.co/releases/Gridkit-0.1.0-beta.1.dmg"
+          sparkle:edSignature="5eMdC9Ll1xufTV2gfHUb0kqpyJGFHCH6Axeyu/qjrljFQOV8REWBBV6WE78yI5oFc6s6aYMxNJrcMEzEFApLAw=="
+          length="5160256"
+          type="application/octet-stream" />
+      </item>
+    </channel>
+  </rss>
